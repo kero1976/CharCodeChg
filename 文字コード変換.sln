@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D680EB8-C33D-4B1D-888A-233CDB5CE36F}"
+	ProjectSection(SolutionItems) = preProject
+		文字コード変換.asta = 文字コード変換.asta
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文字コード変換", "文字コード変換\文字コード変換.vcxproj", "{B914AE07-0120-4F99-B3D6-7777B52A964B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文字コード変換テスト", "文字コード変換テスト\文字コード変換テスト.vcxproj", "{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Debug|x64.ActiveCfg = Debug|x64
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Debug|x64.Build.0 = Debug|x64
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Debug|x86.Build.0 = Debug|Win32
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Release|x64.ActiveCfg = Release|x64
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Release|x64.Build.0 = Release|x64
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Release|x86.ActiveCfg = Release|Win32
+		{B914AE07-0120-4F99-B3D6-7777B52A964B}.Release|x86.Build.0 = Release|Win32
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Debug|x64.ActiveCfg = Debug|x64
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Debug|x64.Build.0 = Debug|x64
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Debug|x86.Build.0 = Debug|Win32
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Release|x64.ActiveCfg = Release|x64
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Release|x64.Build.0 = Release|x64
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Release|x86.ActiveCfg = Release|Win32
+		{9C6A95F2-1C40-4496-918F-7BA84DE42F3A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9185F681-C54F-44FE-9210-ADF295866BE9}
+	EndGlobalSection
+EndGlobal
