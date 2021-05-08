@@ -19,5 +19,5 @@ std::string Sjis::toJis(unsigned char c1, unsigned char c2) {
         c2 = c2 - 0x1f;
     }
     file_logger->info("ˆ—ŒãFc1={},c2={}", c1, c2);
-    return "";
+    return "a";
 }
